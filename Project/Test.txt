@@ -1,1 +1,2 @@
-Project mirip instagram
+- Project mirip instagram
+- Test.js = testing navigator 
